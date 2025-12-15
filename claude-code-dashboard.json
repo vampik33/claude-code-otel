@@ -20,7 +20,20 @@
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
   "id": null,
-  "links": [],
+  "links": [
+    {
+      "asDropdown": false,
+      "icon": "external link",
+      "includeVars": true,
+      "keepTime": true,
+      "tags": [],
+      "targetBlank": false,
+      "title": "Metrics Dashboard",
+      "tooltip": "Switch to Claude Code Metrics (Tokens & Cost)",
+      "type": "link",
+      "url": "/d/claude-code-metrics/claude-code-metrics"
+    }
+  ],
   "liveNow": false,
   "panels": [
     {
